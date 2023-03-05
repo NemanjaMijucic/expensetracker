@@ -33,6 +33,7 @@ h1 {
 }
 .form-center {
   display: flex;
+  justify-content: space-evenly;
   padding: 0 1rem;
 }
 .form-group {
